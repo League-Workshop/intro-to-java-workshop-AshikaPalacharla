@@ -28,5 +28,6 @@ public class MyFirstJavaProgram {
 	shawnMendes.move(200);
 	shawnMendes.turn(-135);
 	shawnMendes.move(250);
+	shawnMendes.
 	}
 }
